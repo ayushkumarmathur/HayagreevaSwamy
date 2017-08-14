@@ -1,2 +1,2 @@
 # HayagreevaSwamy
-Hayagreeva Swamy Application Was Buil For Hayagriva Swamy Temple.
+Hayagreeva Swamy Application Was Built For Hayagriva Swamy Temple.
