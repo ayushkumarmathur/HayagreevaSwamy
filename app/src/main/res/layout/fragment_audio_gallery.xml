@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/yellow"
+    android:layout_height="match_parent"
+    tools:context=".AudioGalleryFragment">
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="-53dp"
+        tools:ignore="MissingConstraints,ObsoleteLayoutParam,RtlHardcoded"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="135dp"
+        android:layout_alignParentBottom="true" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/audio_b"
+        android:layout_below="@id/listView"
+        android:background="@drawable/pausebutton"
+       android:layout_marginTop="400dp"
+        android:layout_marginLeft="28dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/audio_bt"
+        android:background="@drawable/stopbutton"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginEnd="45dp"
+        android:layout_alignBottom="@id/listView"
+        android:layout_toRightOf="@+id/audio_b"
+        android:layout_alignTop="@+id/audio_b"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

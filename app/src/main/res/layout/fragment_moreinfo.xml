@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".HistoryFragment">
+
+
+   <TextView
+       android:id="@+id/moreinfo_text1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/hayasree_technologies"
+       android:textColor="#2196F3"
+       android:fontFamily="serif-monospace"
+       android:textSize="24sp"
+       android:textStyle="normal|bold"
+       android:layout_marginBottom="45dp"
+       android:layout_alignBottom="@+id/moreinfo_text2"
+       android:layout_centerHorizontal="true"
+       tools:ignore="HardcodedText" />
+
+   <TextView
+       android:id="@+id/moreinfo_text2"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/dilsukhnagar"
+       android:textColor="#2196F3"
+       android:textSize="24sp"
+       android:textStyle="normal|bold"
+       android:fontFamily="serif-monospace"
+       android:layout_alignParentTop="true"
+       android:layout_centerHorizontal="true"
+       android:layout_marginTop="227dp"
+       tools:ignore="HardcodedText" />
+</RelativeLayout>

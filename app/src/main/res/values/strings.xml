@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hayagriva</string>
+    <string name="lang_en">English</string>
+    <string name="lang_te">తెలుగు</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_title">Hayagriva Temple</string>
+    <string name="nav_header_location">Yadagiri Gutta</string>
+    <string name="home">Home</string>
+    <string name="about_the_temple">Shri Lakshmi Hayagreeva swamy Temple located in YadagiriGutta of the Nalgonda distict, was build on 27 July 2002 (Jeshta Bahula Tadiya) is privately managed by a Trust Headed by Sri N Lakshmi NaraSimhaCharyulu. The Architechture of the temple is very modern with a Pandyal Design.</string>
+
+
+    <string name="history">History</string>
+
+
+    <string name="photo_gallery">Photo Gallery</string>
+
+
+    <string name="audio_gallery">Audio Gallery</string>
+
+    <string name="hayagreeva_temples">Hayagriva Temples</string>
+
+
+    <string name="rituals">Rituals</string>
+    <string name="share">SHARE</string>
+    <string name="more_info">MORE INFO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="nearby_attractions">Near By Attractions</string>
+
+
+    <string name="title_activity_maps">Map</string>
+    <string name="about_the_god">Shri Lakshmi Hayagreeva swamy Temple located in YadagiriGutta of the Nalgonda distict, was build on 27 July 2002 (Jeshta Bahula Tadiya) is privately managed by a Trust Headed by Sri N Lakshmi NaraSimhaCharyulu. The Architechture of the temple is very modern with a Pandyal Design.</string>
+    <string name="event1">Akshara abyasam(DAILY)</string>
+    <string name="event2">Kshavana nakshathram</string>
+    <string name="event3">Ekadashi Varshikotsavam(Tholi Ekadashi)</string>
+    <string name="event4">Sri Alahasingaar thiru nakshathra utsavam-(YEARLY)</string>
+    <string name="event5">Bhrahmotsavam-Yearly</string>
+    <string name="event6">Pavithrotsavam-(Yearly)</string>
+    <string name="event7">DivyaPrabandhotsavam-(Yearly)</string>
+    <string name="about">ABOUT</string>
+    <string name="yadagirigutta">Yadagirigutta</string>
+    <string name="machilipatnam">Machilipatnam</string>
+    <string name="mahabubnagar">Mahabubnagar</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="madurai">Madurai</string>
+    <string name="pondicherry">Pondicherry</string>
+    <string name="chennai">Chennai</string>
+    <string name="chettypunyam">Chettypunyam</string>
+    <string name="thiruvahindrapuram">Thiruvahindrapuram</string>
+    <string name="suprabhatam">Suprabhatam</string>
+    <string name="tulasi_archana">Tulasi Archana</string>
+    <string name="gopuja">Gopuja</string>
+    <string name="sree_vachapati">Sree Vachapati</string>
+    <string name="nivedhana">Nivedhana</string>
+    <string name="theertdha_prasaada_ghosti">Theertdha Prasaada Ghosti</string>
+    <string name="archana">Archana</string>
+    <string name="timings">Timings:</string>
+    <string name="hayasree_technologies">Hayasree Technologies</string>
+    <string name="dilsukhnagar">Dilsukhnagar</string>
+    <string name="patha_gutta">Patha Gutta</string>
+    <string name="surendrapuri">Surendrapuri</string>
+    <string name="bhongiri_fort">Bhongiri Fort</string>
+    <string name="about_patha_gutta">This temple is situated at very nearest place called Pathagutta Temple as Village Name Peddireddy  Gudem which is  2 K.M. for from this temple.  Since this temple is very  old one to original Sri Lakshmi Narasimha Swamy Devasthanam,  and it  is called as Patha Lakshmi Narasimha Swamy Temple. This  deity is also forms in stone, and having all similar Kainkaryams / Uthsavams through out the year.  Recently this temple  was renovated and having good appearance.</string>
+    <string name="about_suredrapuri">Surendrapuri is a unique one-stop destination where you can see epitome of cultural, artistic and sculptural excellence. Kunda Satyanarayana Kaladhamam, one-of-its-kind mythological theme park. The other major attractions of this place are Nagakoti (101-feet Shiva Linga) and a temple of Panchamukhi Hanuman with Panchmukha Shiva and Lord Venketaswara. A 60-feet double-sided Panchamukhi Hanuman and Shiva statue at the entrance catches the attention of visitors. A unique Navgraha Temple places different navagrahas in the relative positions. Astounding Vedic knowledge has been put into building this temple.</string>
+    <string name="about_bhonagiri_fort">The Bhongir fort in Nalgonda district of Telangana is one such structure. It is a massive impregnable structure erected by Chalukya ruler, Tribhuvanamalla Vikramaditya VI and the fort is named after him. Bhongir fort’s history is traced back to the 10th century. Initially it was called Tribhuvanagiri, renamed later as Bhuvanagiri and eventually it has become Bhongir Fort. The town of Bhuvanagiri/Bhongir derives its name from this splendid fort, which stands on a monolithic rock.  It is spread across an impressive area of 50 acres at a height of around 500 feet over the top an enormous rock formation. It resembles an unusual egg-shape structure along with two main entry points inturn covered with huge rocks. The fort that is encircled in a moat has underground chamber that is believed to be connect Golconda fort located 50 km away. The fort also witnessed a glorious period under queen Rudramadevi and her grandson Prataparudra’s rule.</string>
+    <string name="ht_about_yadagiri_gutta">It is the pilgrimage centre in Nalgonda District of Andhra Pradesh. Shri Lakshmi Hayagreeva Swamy Temple is here in Wangapalli road. This temple is just 2.5kms from Yadagirigutta Bus Station. Yadagirigutta is 13kms from Bhuvanagiri and 63kms from Hyderabad.</string>
+    <string name="ht_about_machilipatnam">It is the Krishna district headquarter in Andhra Pradesh. Hayagriva Temple is here in Ramanaidupet. This temple is just 800mtrs from Machilipatnam Bus Stand. Machilipatnam is 68kms from Vijayawada.\\n</string>
+    <string name="ht_about_mahabubnagar">It is the district headquarter twon in telangana. Hayagriva Temple is here in Venkateswara Colony. This temple is just 2kms from Mahbubnagar RS. Mahbubnagar is 100kms from Hyderabad and 125kms from Kurnool.\"</string>
+    <string name="ht_about_bangolore">It is the State Capital city of Karnataka. Lakshmi Hayagriva Temple is here in Danvanthari road near City Bus Station.</string>
+    <string name="ht_about_madhurai">It is the famous pilgrimage centre in Tamilnad State. Hayagreev Temple is here in Chinnakadai Area near Koodal Alagar Temple. This temple is just 600mtrs away from Meenakshi Temple. Madurai is 132kms from Trichy and 450kms from Chennai.</string>
+    <string name="ht_about_pondicherry">It is the Capital city of Pondicherry state. Sri Lakshmi Hayagriva Temple is here in Ramakrishna Nagar near Renuka Film Theatre. This temple is just 2.5kms from Pondicherry RS. Pondicherry is 40kms from Viluppuram and 165kms from Chennai.</string>
+    <string name="ht_about_chennai">It is the State Capital city of Tamilanad. Lakshmi Hayagriva Temple is here in Nanganallur at 8th street. This temple is just 1.5kms from Pazhavanthangal RS and 18kms from Chennai Central RS.</string>
+    <string name="ht_about_chettypunyam">It is a small village near Chengalpattu in Tamilnadu State. Yoga Hayagreevar Perumal Temple is here in Varadaraja Perumal Temple. Chettypunyam is just 8kms from Chengalpattu and 25kms from Tambaram.</string>
+    <string name="ht_about_thiruvahindrapuram">It is a small town in Cuddalore district of Tamilanad State. Lakshmi Hayagriva Temple is here on a small hilltop. Thiruvahindrapuram is just 7kms from Cuddalore</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_yadagiri_gutta">Yadagiriguda Lakshminarasimhaswamy is one of the most famous pilgrims in the state of Telangana! It is located on a high hill near Yadagirigugatta mandal in Nalgonda district.Valmiki is behind the origin of the Yadagiriguda temple in Ramayana. And many more articles have been published in mythology.</string>
+
+
+</resources>

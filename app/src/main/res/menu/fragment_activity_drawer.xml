@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_menu_history"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/nav_photo_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/photo_gallery" />
+        <item
+            android:id="@+id/nav_audio_gallery"
+            android:icon="@drawable/ic_menu_audio_gallery"
+            android:title="@string/audio_gallery" />
+        <item
+            android:id="@+id/nav_temples"
+            android:icon="@drawable/ic_menu_trust"
+            android:title="@string/hayagreeva_temples" />
+        <item
+            android:id="@+id/nav_rituals"
+            android:icon="@drawable/ic_menu_trust"
+            android:title="@string/rituals" />
+        <item
+            android:id="@+id/nav_nearby_attractions"
+            android:icon="@drawable/ic_menu_nearby"
+            android:title="@string/nearby_attractions" />
+
+    </group>
+
+    <item android:title="Communicate"
+        tools:ignore="HardcodedText">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+            <item
+                android:id="@+id/nav_moreinfo"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/more_info" />
+        </menu>
+    </item>
+
+</menu>

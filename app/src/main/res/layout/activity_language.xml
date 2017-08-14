@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/yellow"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:weightSum="1">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:text="Powered By"
+        android:layout_marginLeft="10dp"
+        android:textColor="#ef072a"/>
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/haya" />
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <RadioGroup
+            android:layout_gravity="left"
+            android:layout_width="207dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="20dp"
+            android:weightSum="1"
+            android:id="@+id/radioGroup"
+            tools:ignore="RtlHardcoded,UselessParent"
+            android:layout_weight="1.30">
+
+            <RadioButton
+                android:id="@+id/radioButton1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:checked="true"
+                android:text="@string/lang_en"
+                android:textColor="#2196F3"
+                android:textColorLink="#2196F3"
+                android:textSize="20sp"
+                android:fontFamily="serif-monospace"
+                android:textStyle="normal|bold" />
+
+            <RadioButton
+                android:id="@+id/radioButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:checked="false"
+                android:fontFamily="serif-monospace"
+                android:text="@string/lang_te"
+                android:textColor="#2196F3"
+                android:textColorLink="#2196F3"
+                android:textSize="20dp"
+                android:textStyle="normal|bold" />
+        </RadioGroup>
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="183dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="proceed"
+        android:textSize="30sp"
+        android:textColor="#2196F3"
+        android:textColorLink="#2196F3"
+        android:textStyle="normal|bold"
+        android:fontFamily="serif-monospace"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>
